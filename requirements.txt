@@ -1,5 +1,5 @@
 altair==4.2.0
-joblib==1.1.0
+joblib==1.2.0
 numpy==1.23.0
 pandas==1.4.3
 plotly==5.9.0
